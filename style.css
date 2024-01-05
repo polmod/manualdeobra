@@ -53,6 +53,7 @@ li {
 .cover-img {
   height: auto;
   max-width: 620px;
+  width: 100%;
 }
 .botones-compra {
   display: flex;
