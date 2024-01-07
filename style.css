@@ -122,7 +122,7 @@ li {
 
 
 /* Responsive header
-/* https://blog.logrocket.com/create-responsive-mobile-menu-with-css-no-javascript/#adding-responsiveness
+/* https://blog.logrocket.com/create-responsive-mobile-menu-with-css-no-javascript/#adding-responsiveness */
 
 :root{
     --black: #36383F;
@@ -139,8 +139,8 @@ li {
 }
 /* Logo */
 .logo img {
-  height: 60px;
-  padding: 10px;
+  height: 40px;
+  padding: 8px;
 }
 
 /* Nav menu */
@@ -153,7 +153,7 @@ li {
 }
 .menu a{
   display: block;
-  padding: 30px;
+  padding: 20px;
   color: white;
 }
 .menu a:hover{
@@ -168,7 +168,7 @@ li {
 .hamb{
   cursor: pointer;
   float: right;
-  padding: 40px 20px;
+  padding: 28px;
 }/* Style label tag */
 
 .hamb-line {
@@ -176,7 +176,7 @@ li {
   display: block;
   height: 2px;
   position: relative;
-  width: 28px;
+  width: 24px;
 } /* Style span tag */
 
 .hamb-line::before,
