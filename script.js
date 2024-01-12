@@ -16,6 +16,7 @@ var navbarItems = `
             <li><a href="./comprar.html">Comprar</a></li>
             <li><a href="./detalles.html">Detalles</a></li>
             <li><a href="./autor.html">Autor</a></li>
+            <li><a href="./blog.html">Blog</a></li>
         </ul>
     </nav>
 </header>
